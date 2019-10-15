@@ -1,0 +1,7 @@
+#Sun Oct 13 12:46:33 PKT 2019
+base.0=C\:\\Users\\sabiq\\AndroidStudioProjects\\Personal-Resume-master\\base\\build\\intermediates\\transforms\\dexMerger\\feature\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\sabiq\\AndroidStudioProjects\\Personal-Resume-master\\base\\build\\intermediates\\transforms\\dexMerger\\feature\\debug\\1

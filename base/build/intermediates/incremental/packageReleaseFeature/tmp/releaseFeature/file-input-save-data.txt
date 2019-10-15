@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Oct 13 15:24:03 PKT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\sabiq\\AndroidStudioProjects\\Personal-Resume-master\\base\\build\\intermediates\\transforms\\dexMerger\\feature\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
